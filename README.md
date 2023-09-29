@@ -9,13 +9,13 @@
 ข้อมูลที่นำมาสอนโมเดลคือข้อความทวิตรีวิวสินค้าจำนวน 200 ข้อความ จากนั้นจึงนำมาสอนโดยการทำ Supervised Learning แปะป้ายแยกระหว่าง spon และ nospon จากนั้นเราจำนวนข้อมูลตัวอักษรไปทำ NLP และเทรนโมเดลโดยการใช้ Logistic Regression ผ่าน sklearn
 
 ## Examples
-![จิปาถะ](https://github.com/namthip06/sponser_predict/assets/116744483/85208205-446c-41e7-823c-decb3c402feb)
+![ผล](https://github.com/namthip06/sponser_predict/assets/116744483/41cae875-2f48-4abe-95cc-0683e6272863)
 
 ## Usage
 text
 
 ## Development process
-
+![วิธี](https://github.com/namthip06/sponser_predict/assets/116744483/2a1ef3c0-9e9a-4417-9248-46a8e2b33452)
 
 ## Implementation Roadmap
 image
